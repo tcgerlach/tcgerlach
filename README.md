@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,regex,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 
-## I’m currently learning
+## Things I’m Learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
   - 你好！我学中文学了十年多了。
@@ -19,7 +19,7 @@
   - 私は少し日本語を話します。 
 
 
-## Things I love
+## Things I Love
 - 🤖 Artificial Intelligence
 - 🪐 Astronomy
 - 💻 Computers
@@ -30,7 +30,7 @@
 - 👨‍👩‍👧‍👦 Social Sciences
 
 
-## Other stuff
+## Other Stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
   - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
@@ -62,6 +62,6 @@
 - 💻 IEEE Computer Society
  
 
-## Learn more about me
+## Learn More About Me
 - 🌎 Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)
