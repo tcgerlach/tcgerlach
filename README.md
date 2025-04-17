@@ -8,15 +8,10 @@
 ## Things I’m Learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
-  - 你好！我学中文学了十年多了。
-  - 我去过了香港和深圳了，很想回去看长城。
-  - 如果你看不懂这个，你应该学中文。
-  - 我的中文名字是张文山。
-  - 我觉得中国文化很有意思。
 - 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese
-  - 私は少し日本語を話します。 
+- ✈️ I am studying for a Recreational Pilot Certificate
 
 
 ## Things I Love
@@ -29,6 +24,22 @@
 - 🎵 Music
 - 👨‍👩‍👧‍👦 Social Sciences
 
+
+## Volunteer Work
+- 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](https://scouting.org)
+- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
+- 👽 *Field Investigator* with the [Mutual UFO Society](https://mufon.com)
+- 👨‍💼 *Mentor* with [American Corporate Partners](https://acp-usa.org)
+
+
+## Professional Memberships
+- 👨‍👩‍👧‍👦 [American Sociological Association](https://www.asanet.org/)
+- 🧠 [Association for the Advancement of Artificial Intelligence](https://aaai.org/)
+- 🥷 [Association of Former Intelligence Officers](https://www.afio.com/)
+- 🔌 [Institute of Electrical and Electronics Engineers](https://ieee.org)
+- 🤖 [IEEE Computational Intelligence Society](https://cis.ieee.org)
+- 💻 [IEEE Computer Society](https://www.computer.org)
+  
 
 ## Other Stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
