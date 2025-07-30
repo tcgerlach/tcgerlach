@@ -55,16 +55,17 @@
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
+  - ⚔️ I also have extensive training with short swords 
 - 📻 I have an Extra Class Ham Radio License
 - 🛩️ I have a Small Unmanned Aircraft System (sUAS) Certificate
 - 📄 I have numerous certifications
   - ☁️ AWS Certified Solutions Architect
   - 👨‍💼 Six Sigma Green Belt, Certified Scrum Master, ITIL
-  - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
+  - 💻 CompTIA A+, Network+, Security+, PenTest+, CySA+, Project+
   - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research
   - 👨‍💻 CIW Advanced HTML5 and CSS Specialist, User Interface Designer
  
 
 ## Learn More About Me
-- 🌎 Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
+- 🌎 [LinkedIn](https://linkedin.com/in/tcgerlach) - [OrcID](https://orcid.org/0000-0003-4596-2767) - [Credly](https://www.credly.com/users/thomas-gerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)
