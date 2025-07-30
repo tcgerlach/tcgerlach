@@ -1,16 +1,17 @@
 # 👋 Hi, I’m @tcgerlach
 
-<img src="aws.png" width="100px"/> <img src="csm.png" width="100px"/> <img src="sixsigma.png" width="100px"/> <img src="itil.png" width="100px"/> <img src="project.png" width="100px"/> <img src="pentest.png" width="100px"/> <img src="secplus.png" width="100px"/> <img src="netplus.png" width="100px"/>
+<img src="aws.png" width="133.3px"/> <img src="csm.png" width="133.3px"/> <img src="sixsigma.png" width="133.3px"/> <img src="itil.png" width="133.3px"/> <img src="project.png" width="133.3px"/> <img src="sql.png" width="133.3px"/> </br>
+<img src="CNSP.png" width="133.3px"/> <img src="cysaplus.png" width="133.3px"/> <img src="pentest.png" width="133.3px"/> <img src="secplus.png" width="133.3px"/> <img src="aplus.png" width="133.3px"/> <img src="netplus.png" width="133.3px"/> 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,regex,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
-
 ## Things I’m Learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
+- 🦉 I am taking a certificate program in artificial intelligence at WGU
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
-- 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
-- 🇯🇵 I recently started learning to speak Japanese
+- 🇯🇵 I am learning to speak Japanese
+- 🇮🇷 I recently started studing Persian
 - ✈️ I am studying for a Recreational Pilot Certificate
 
 
