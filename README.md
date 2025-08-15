@@ -10,7 +10,7 @@
 - 🦉 I am taking a certificate program in artificial intelligence at WGU
 - :atom: I am learning how to program quantum computers
 - ✈️ I am studying for a Recreational Pilot Certificate
-- 🥋 I'm graining for a 4th degree Master Black Belt
+- 🥋 I'm training for a 4th degree Master Black Belt
 
 
 ## Languages I'm Currently Studying
