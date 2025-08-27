@@ -7,7 +7,7 @@
 
 ## Things I’m Learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
-- 🦉 I am taking a certificate program in artificial intelligence at WGU
+- 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
 - :atom: I am learning how to program quantum computers
 - ✈️ I am studying for a Recreational Pilot Certificate
 - 🥋 I'm training for a 4th degree Master Black Belt
@@ -56,6 +56,7 @@
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
+  - 🤖 Certificate in Artificial Intelligence
   - 💊 Certificate in Herbal Medicine
   - 🔑 Certificate in Locksmithing
   - 📻 Extensive Training in Radio Communications Systems
