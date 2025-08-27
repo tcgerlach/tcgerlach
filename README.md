@@ -57,8 +57,8 @@
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
   - 🤖 Certificate in Artificial Intelligence
-  - 💊 Certificate in Herbal Medicine
-  - 🔑 Certificate in Locksmithing
+  - 💊 Diploma in Herbal Medicine
+  - 🔑 Diploma in Locksmithing
   - 📻 Extensive Training in Radio Communications Systems
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
