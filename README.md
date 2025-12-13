@@ -9,7 +9,6 @@
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
 - :atom: I am learning how to program quantum computers
-- ✈️ I am studying for a Recreational Pilot Certificate
 - 🥋 I'm training for a 4th degree Master Black Belt
 
 
@@ -18,7 +17,7 @@
 - 🇫🇷 French
 - 🇩🇪 German
 - 🇯🇵 Japanese
-- 🇮🇷 Persian
+- 🇰🇷 Korean
 - 🇸🇪 Swedish
 
 
