@@ -6,10 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,regex,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ## Things I’m Learning
-- 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
 - :atom: I am learning how to program quantum computers
 - 🥋 I'm training for a 4th degree Master Black Belt
+- ⚕️ I'm studying to take the EMT certification exam
 
 
 ## Languages I'm Currently Studying
@@ -52,7 +52,7 @@
 ## Other Stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
-  - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
+  - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
