@@ -6,10 +6,8 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,regex,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ## Things I’m Learning
-- 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
-- :atom: I am learning how to program quantum computers
 - 🥋 I'm training for a 4th degree Master Black Belt
-- ⚕️ I'm studying to take the EMT certification exam
+- 🚀 I'm learning to write science fiction short stories
 
 
 ## Languages I'm Currently Studying
@@ -17,12 +15,10 @@
 - 🇫🇷 French
 - 🇩🇪 German
 - 🇯🇵 Japanese
-- 🇰🇷 Korean
 - 🇸🇪 Swedish
 
 
 ## Things I Love
-- 🤖 Artificial Intelligence
 - 🪐 Astronomy
 - 💻 Computers
 - 💬 Foreign Languages
@@ -33,11 +29,11 @@
 
 
 ## Volunteer Work
-- 🧑‍⚖️ *Judge of Election* for Altoona's 11th Ward, 1st Precinct
 - 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](https://scouting.org)
-- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
 - 👽 *Field Investigator* with the [Mutual UFO Network](https://mufon.com)
+- 🧑‍⚖️ *Judge of Election* for Altoona's 11th Ward, 1st Precinct
 - 👨‍💼 *Mentor* with [American Corporate Partners](https://acp-usa.org)
+- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
 
 
 ## Professional Memberships
