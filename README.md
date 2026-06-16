@@ -15,6 +15,7 @@
 - 🇫🇷 French
 - 🇩🇪 German
 - 🇯🇵 Japanese
+- 🇹🇿 Swahili
 - 🇸🇪 Swedish
 
 
